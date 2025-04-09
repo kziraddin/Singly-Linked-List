@@ -43,6 +43,10 @@ Displays the linked list in a readable format.
 - **Sort** the list
 
 ## License
+<<<<<<< HEAD
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 # Singly-Linked-List
 Singly Linked List Interactive
+=======
+
+>>>>>>> 6cad979bae2f495b921b621ef18b8e641d4663e8
