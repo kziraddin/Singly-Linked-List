@@ -31,7 +31,7 @@ Sort the values in the linked list using **merge sort**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/singly-linked-list-project.git
+   git clone https://github.com/kziraddin/singly-linked-list-project.git
 2. Navigate to the project directory:
    ```bash
    cd singly-linked-list-project
