@@ -25,6 +25,9 @@ Reverse the entire linked list.
 ### 🔹 7. Sort the Linked List
 Sort the values in the linked list using **merge sort**.
 
+### 🔹 8. Search value in the Linked List
+Search value in the linked list using **Binary Search**.
+
 ---
 
 ## 🖥️ How to Run
@@ -49,10 +52,11 @@ Sort the values in the linked list using **merge sort**.
 ##### PRESS 5 to DISPLAY list.
 ##### PRESS 6 to REVERSE the List.
 ##### PRESS 7 to SORT the Linked List.
+##### PRESS 8 to Search value in the Linked List.
    
 
 ## 🛠️ Future Plans
-Add search functionality
+Add search functionality (added)
 
 Support doubly linked lists
 
